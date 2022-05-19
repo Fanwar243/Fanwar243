@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Farid.
 - 👀 I’m interested in front-end web development, and some back-end.
-- 🌱 I’m currently learning JavaScript and JS frameworks!
+- 🌱 I’m currently learning JavaScript and JS frameworks, as well as Python for Machine Learning and Data Science!
 - 📫 How to reach me:
 - faridanwar243@gmail.com
 
